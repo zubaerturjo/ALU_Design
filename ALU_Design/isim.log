@@ -1,0 +1,2 @@
+ISim log file
+Running: /home/ise/ALU_Design/ALU_Design/alu_8bit_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/ALU_Design/ALU_Design/alu_8bit_tb_isim_beh.wdb 
